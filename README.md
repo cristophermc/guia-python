@@ -5,8 +5,12 @@
 En este proyecto encontrarás todo aquello que necesitas para entender de una vez por todas este lenguaje que poco a poco se está convirtiendo en un lenguaje muy utilizado 
 en cualquier ámbito, desde la gestión y administración de bases de datos hasta la creación de aplicaciones multiplataforma. 
 <br>
+<br>
+
 En este curso encontrarás un temario organizado con diferentes explicaciones y ejercicios en forma de código comentado. ¡De esta manera vas a trabajar y aprender al mismo tiempo!
 <br>
+<br>
+
 Sin mucho más que añadir, espero que disfrutes de tu autoaprendizaje. Un saludito:
 
 N-ero, programador autodidacta
