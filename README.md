@@ -1,4 +1,4 @@
-# guia-python
+# Curso de Python
 # Guía de Python para principiantes y usuarios intermedios 
 <hr>
 ¡Saludos a todos aquellos interesados en aprender Python con esta guía didáctica de cómo programar en este sencillo lenguaje de alto nivel!
